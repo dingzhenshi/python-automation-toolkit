@@ -50,5 +50,5 @@ REQUIREMENTS:
 # --- 关键：在这里扣动扳机 ---
 if __name__ == "__main__":
     # 替换成你刚才在官网申请的那个 sk- 开头的字符串
-    MY_SECRET_KEY = "sk-0ea0d3ef577a4820bc0eb9e0cfe15cbf"
+    MY_SECRET_KEY = ""
     process_data_with_ai(MY_SECRET_KEY)
